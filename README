@@ -1,5 +1,3 @@
 This is an early release of Lisp flavoured Java - a thin wrapper over the Java virtual machine (JVM). Programs written in this language are written in extensible data notation (EDN). The compiler is available in the /bin/ folder. To use the compiler:
 
 	java -jar LFJ.jar Class.edn
-
-To read more go to http://lisp-ai.blogspot.com/ which contains information about this language not available in the docs.
